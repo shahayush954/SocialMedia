@@ -4,6 +4,8 @@ A twitter based Clone built with ReactJs, NodeJs, ExpressJs and Google Firebase.
 The project was built as a practice after have learnt the bascics of ReactJs and NodeJs. I have tried to add as many features like twitter as I could, although this is the first
 version and am looking forward to keep improving and adding new features to it. For more details continue reading further.
 
+### For live website visit [here.](http://socialmedia954.herokuapp.com/)
+
 ## Directory Structure.
 
   1.  The folder social-media-functions folder contains all the backend code, functions and all the routes for various API calls. All the API routes were built using NodeJs, ExpresJs and 
@@ -33,10 +35,34 @@ version and am looking forward to keep improving and adding new features to it. 
     14. Delete our comments from other users posts.
     15. Get various types of Notifications.
     16. New and read notifications are well differentiated.
+
+## Here aresome of the Screenshots of the site.
+
+### Home Page.
+![Home Page](screenshots/home-page.png)
+
+### User Page.
+![User Page](screenshots/user-page.png)
+
+### Individual Posts and Comments.
+![Post and Comments](screenshots/individual-post-and-comments.png)
+
+### Edit User Details.
+![User Page](screenshots/edit-user-details.png)
+
+### Login Page.
+![Login Page](screenshots/login-page.png)
+
+### Signup Page.
+![Signup Page](screenshots/signup-page.png)
+
     
 ## Future Work.
 
     1. Improving Login and Signup forms.
     2. Tagging other users to our Posts.
     3. Liking other users comments.
+
+
+  
     
